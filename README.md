@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Final project for CS50P for Harvard University.<br>I'm currently learning advanced concepts about JavaScript.<br>My dream is to become a great Software Engineer.
+I'm currently at my finals 🥲.<br>I'm currently learning advanced concepts about JavaScript.<br>My dream is to become a great Software Engineer.
 
 
 ## 🌐 Socials:
