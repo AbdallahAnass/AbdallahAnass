@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning advanced concepts about JavaScript.<br>My dream is to become a great Software Engineer.
+I'm currently working on A typing speed test Javascript application.<br>My dream is to become a great Software Engineer.
 
 
 ## 🌐 Socials:
