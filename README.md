@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Asynchronous Programming in JavaScript.<br>My dream is to become a great Software Engineer.
+My dream is to become a great Software Engineer.
 
 
 ## 🌐 Socials:
