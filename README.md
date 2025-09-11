@@ -1,5 +1,5 @@
 # 💫 About Me:
-My dream is to become a great Software Engineer.
+I'm currently building a simple to-do list application using JavaScript.<br>My dream is to become a great Software Engineer.
 
 
 ## 🌐 Socials:
