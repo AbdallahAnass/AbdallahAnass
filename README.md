@@ -30,7 +30,7 @@ I'm currently building a simple to-do list application using JavaScript.<br>My d
 
 testing
 <div align="left">
-  <a href = "https://linkedin.com/in/abdallah-anas-b54759200" target = "_blank">
+  <a href = "https://linkedin.com/in/abdallah-anas-b54759200">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href = "mailto:anasabdalla99@gmail.com" target="_blank">
