@@ -42,7 +42,7 @@ testing
   <a href = "https://facebook.com/abdalla.anas.3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href = "https://youtube.com/@UCVog2dYEQ5KXki81xwyuHCA" target="_blank">
+  <a href = "https://www.youtube.com/@abdallahanas4335" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
